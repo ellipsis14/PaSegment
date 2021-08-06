@@ -1,2 +1,2 @@
 # PaSegment
-Transferlearning approach to the segmentation of pulmonary artery of Humans
+Transfer Learning approach for the automatic segmentation of pulmonary artery.
